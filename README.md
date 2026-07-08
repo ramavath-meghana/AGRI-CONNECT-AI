@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Track 4
+Kisan Alert
+Smart Water, Crop & Advisory System
+The Problem
+Farmers often face crop failure from unpredictable monsoons and a lack of data-driven guidance — crop choices are based on habit or hearsay rather than soil health, groundwater depth, or rainfall data, leading to financial loss and wasted resources.
 
-# Run and deploy your AI Studio app
+The Challenge
+Build a voice-and-SMS agricultural intelligence platform in Indic languages for small and marginal farmers, with three components:
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8043c5cd-98d7-4e89-afb9-04b674d7b6ec
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+A smart crop recommendation engine using satellite and soil data.
+Real-time advisory and dry-spell alerts using localized weather forecasts and ground sensor data for irrigation/fertilization guidance.
+Crop health logging via photo/voice for AI diagnosis, connected directly to Rythu Seva Kendras for expert follow-up.
