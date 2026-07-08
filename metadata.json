@@ -1,0 +1,6 @@
+{
+  "name": "AGRI CONNECT AI",
+  "description": "An AI-powered agricultural advisory platform for farmers, providing crop disease diagnosis via photos and answering farming queries in multiple languages, with simulated SMS delivery.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
