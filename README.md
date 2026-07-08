@@ -10,3 +10,10 @@ Build a voice-and-SMS agricultural intelligence platform in Indic languages for 
 A smart crop recommendation engine using satellite and soil data.
 Real-time advisory and dry-spell alerts using localized weather forecasts and ground sensor data for irrigation/fertilization guidance.
 Crop health logging via photo/voice for AI diagnosis, connected directly to Rythu Seva Kendras for expert follow-up.
+
+TECH STACK :
+Frontend: React + TypeScript + Vite
+Backend: Node / TypeScript service
+AI: Google Gemini API (multimodal — image & text)
+Deployment: Google Cloud Run (serverless, auto-scaling)
+Fully Google Cloud-native 
